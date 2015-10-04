@@ -22,8 +22,3 @@ spl_autoload_register(function ($class) {
         require_once $path;
     }
 });
-
-use CustomBulkAction\CustomBulkAction;
-CustomBulkAction::init();
-CustomBulkAction::addCustomBulkAction("name", "Lable", "post", function($postIds) {
-});
