@@ -8,8 +8,8 @@
 */
 
 spl_autoload_register(function ($class) {
-    $namespace = "CustomBulkAction";
-
+    $namespace = "CustomBulkAction\\";
+    
     //If the class being loaded starts with the namespace
     //this autoloader handles, then.....
     if (strpos($class, $namespace) === 0) {
