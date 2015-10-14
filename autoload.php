@@ -1,6 +1,6 @@
 <?php
 /*
-    © Sigurd Berg Svela 2015
+    Copyright © Sigurd Berg Svela 2015
 
     Autoloads the classes in this folder.
 
