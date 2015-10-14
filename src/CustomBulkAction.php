@@ -1,4 +1,6 @@
 <?php
+/** Copyright © Sigurd Berg Svela 2015 */
+
 namespace CustomBulkAction;
 
 class CustomBulkAction {

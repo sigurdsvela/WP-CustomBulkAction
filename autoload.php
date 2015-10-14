@@ -1,5 +1,7 @@
 <?php
 /*
+    © Sigurd Berg Svela 2015
+
     Autoloads the classes in this folder.
 
     Whenever a class in this folder is referenced, this
